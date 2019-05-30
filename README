@@ -1,4 +1,6 @@
 # Airport Challenge - Javascript
 
-### Tested with Jasmine
+## Tested with Jasmine
  
+> Worked up to preventing takeoff is the weather is stormy. 
+> Next would be to prevent landing if the weather is stormy.
